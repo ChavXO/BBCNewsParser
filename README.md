@@ -1,2 +1,2 @@
-# BBCNewsParser
-A Haskell HTML parser that uses HXT to recover headlines from the BBC news homepage.
+# Headlines
+A command line application for scraping headlines from various news sources.
